@@ -7,3 +7,4 @@ sqlparse==0.6.0
 typing_extensions==4.16.0
 python-dotenv
 Pillow
+gunicorn
